@@ -1,0 +1,6 @@
+{
+  "appId": "com.test.test",
+  "appName": "Jscom-payment",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
